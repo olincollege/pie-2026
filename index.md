@@ -2,7 +2,7 @@
 
 Click on a link below to visit the website for that team's project.
 
-[Example project page using CSS](https://olincollege.github.io/pie-page-template/example-css-page/)
+[Example project page using CSS](https://olincollege.github.io/pie-2026/example-css-page/)
 
 [A-salt Tank](https://olincollege.github.io/pie-2026/a-salt-tank)
 
